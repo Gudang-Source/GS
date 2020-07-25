@@ -1,7 +1,7 @@
-# GS
+# 
 [![Forkisme.](https://i.postimg.cc/MH6NMpTJ/Untitled-design-3.png)](/)
 
-Hi. I’m Alfaben. Sometimes when I close my eyes, I can't see.
+Hi. I’m FORKISME. Sometimes when I close my eyes, I can't see.
 
 I work at [forkisme](/) as a Backend Engineer. For more information about me, check out [forkisme.github.io](https://forkisme.github.io/).
 
